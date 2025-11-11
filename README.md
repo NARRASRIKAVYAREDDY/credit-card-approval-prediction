@@ -102,15 +102,3 @@ This script demonstrates how to:
 - Predict approval for a sample applicant profile.
 
 ---
-
-## Why this project is strong for your portfolio
-
-- Shows understanding of the **full ML lifecycle**, not just a single notebook.
-- Uses **pipelines, ColumnTransformer, cross-validation**, and **feature importance** — tools used in real teams.
-- Can be plugged into dashboards / APIs later.
-- Easy for recruiters to run and review.
-
-You can customize:
-- Feature list
-- Hyperparameters
-- Visualization / EDA in a separate notebook.
