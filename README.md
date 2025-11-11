@@ -1,8 +1,6 @@
 # Credit Card Approval Prediction (ML Project)
 
 This repository contains an end-to-end **Machine Learning pipeline** for predicting **credit card application approval**.  
-It is designed as a **portfolio project for a student / aspiring Data Analyst or Data Scientist** and follows good practices:
-clean data, engineered features, cross-validation, explainability, and reproducible training.
 
 The model is built using **Python** and **scikit-learn**, and can be trained on any credit card approval dataset
 with similar structure (e.g., UCI / Kaggle credit card approval datasets).
